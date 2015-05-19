@@ -1,1 +1,19 @@
-
+{
+  "name": "newgittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtsf71/newGitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtsf71/newGitTest/issues"
+  },
+  "homepage": "https://github.com/jtsf71/newGitTest#readme"
+}
